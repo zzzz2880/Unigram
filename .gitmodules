@@ -1,6 +1,6 @@
 [submodule "Unigram/Libraries/libutf"]
 	path = Libraries/libutf
-	url = https://android.googlesource.com/platform/external/libutf
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/libutf
 [submodule "Unigram/Libraries/flatbuffers"]
 	path = Libraries/flatbuffers
 	url = https://github.com/google/flatbuffers.git
@@ -18,7 +18,7 @@
 	url = https://github.com/ahmed605/CoreWindowCustomDPI.git
 [submodule "Libraries/vlc/vlc"]
 	path = Libraries/vlc/vlc
-	url = https://github.com/videolan/vlc.git
+	url = https://code.videolan.org/videolan/vlc.git
 [submodule "Libraries/tdlib"]
 	path = Libraries/tdlib
 	url = https://github.com/tdlib/td.git
